@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GisHomeWork", "GisHomeWork\GisHomeWork.csproj", "{8786F48C-2944-4FE4-A806-D7348A1D9462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionarys", "Dictionarys\Dictionarys.csproj", "{B98786B9-6DCF-49B8-83B7-B0D012308B83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{9FE886DA-072E-4E3C-ACF4-C49AC6FF2F9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryKeyDictionaryTest", "BinaryKeyDictionaryTest\BinaryKeyDictionaryTest.csproj", "{03FD470B-864F-4CDE-827A-0FCD4250B68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8786F48C-2944-4FE4-A806-D7348A1D9462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8786F48C-2944-4FE4-A806-D7348A1D9462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8786F48C-2944-4FE4-A806-D7348A1D9462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8786F48C-2944-4FE4-A806-D7348A1D9462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98786B9-6DCF-49B8-83B7-B0D012308B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98786B9-6DCF-49B8-83B7-B0D012308B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98786B9-6DCF-49B8-83B7-B0D012308B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98786B9-6DCF-49B8-83B7-B0D012308B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03FD470B-864F-4CDE-827A-0FCD4250B68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FD470B-864F-4CDE-827A-0FCD4250B68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FD470B-864F-4CDE-827A-0FCD4250B68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FD470B-864F-4CDE-827A-0FCD4250B68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03FD470B-864F-4CDE-827A-0FCD4250B68D} = {9FE886DA-072E-4E3C-ACF4-C49AC6FF2F9F}
+	EndGlobalSection
+EndGlobal
